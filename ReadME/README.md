@@ -1,0 +1,1 @@
+This project is part of Nextwork's 7 days challenge. I created a web app using Maven The web app is hosted on my EC2 instance on amazon. I stored my files on Github This is a readme file.
